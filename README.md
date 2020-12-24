@@ -1,2 +1,3 @@
-# To-Do-List-in-javascript
+# To-Do List in JavaScript
+
 To Do List in javascript
